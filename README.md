@@ -1,2 +1,0 @@
-# cek-khodam
-khodam
